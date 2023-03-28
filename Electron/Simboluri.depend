@@ -1,0 +1,489 @@
+# depslib dependency file v1.0
+1639064577 source:f:\codeblocks fisiere\simboluri\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	"Structuri.h"
+
+1639071582 f:\codeblocks fisiere\simboluri\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+
+1639322311 source:c:\users\georg\desktop\test23231\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	<stdlib.h>
+	<time.h>
+
+1639322273 c:\users\georg\desktop\test23231\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+
+1639512056 source:f:\codeblocks fisiere\electron12.12.2021\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1639514015 f:\codeblocks fisiere\electron12.12.2021\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+
+1639326170 f:\codeblocks fisiere\electron12.12.2021\legaturi.h
+
+1639611329 source:c:\users\cristina\desktop\electron 15.12\electron12.12.2021\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1639611949 c:\users\cristina\desktop\electron 15.12\electron12.12.2021\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+
+1639326170 c:\users\cristina\desktop\electron 15.12\electron12.12.2021\legaturi.h
+
+1639663750 source:c:\users\cristina\desktop\electron 16.12\electron12.12.2021\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1639664022 c:\users\cristina\desktop\electron 16.12\electron12.12.2021\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+
+1639326170 c:\users\cristina\desktop\electron 16.12\electron12.12.2021\legaturi.h
+
+1639910947 source:c:\users\georg\desktop\electron 16.12\electron12.12.2021\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1639910514 c:\users\georg\desktop\electron 16.12\electron12.12.2021\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+
+1639326170 c:\users\georg\desktop\electron 16.12\electron12.12.2021\legaturi.h
+
+1640550832 source:c:\users\cristina\desktop\electron 19.12\electron 16.12\electron12.12.2021\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1640361542 c:\users\cristina\desktop\electron 19.12\electron 16.12\electron12.12.2021\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+
+1639326170 c:\users\cristina\desktop\electron 19.12\electron 16.12\electron12.12.2021\legaturi.h
+
+1640856089 source:c:\users\georg\desktop\electron28.12.2021\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1640855967 c:\users\georg\desktop\electron28.12.2021\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+
+1639326170 c:\users\georg\desktop\electron28.12.2021\legaturi.h
+
+1641136379 source:c:\users\georg\desktop\electron\electron30.12.2021\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1641228031 c:\users\georg\desktop\electron\electron30.12.2021\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+
+1639326170 c:\users\georg\desktop\electron\electron30.12.2021\legaturi.h
+
+1641237164 source:c:\users\cristina\desktop\electron03ian\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1641238247 c:\users\cristina\desktop\electron03ian\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+
+1639326170 c:\users\cristina\desktop\electron03ian\electron03.01.2022\legaturi.h
+
+1641476826 source:c:\users\georg\desktop\electron03ian\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1641478952 c:\users\georg\desktop\electron03ian\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\georg\desktop\electron03ian\electron03.01.2022\legaturi.h
+
+1641476826 source:c:\users\georg\desktop\electron06\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1641483424 c:\users\georg\desktop\electron06\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\georg\desktop\electron06\electron03.01.2022\legaturi.h
+
+1641720791 source:c:\users\georg\desktop\electron06(bun)\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1641721671 c:\users\georg\desktop\electron06(bun)\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\georg\desktop\electron06(bun)\electron03.01.2022\legaturi.h
+
+1641726046 source:c:\users\georg\desktop\electron09(bun)\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1641740390 c:\users\georg\desktop\electron09(bun)\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\georg\desktop\electron09(bun)\electron03.01.2022\legaturi.h
+
+1641896005 source:c:\users\georg\desktop\electron11(bun)\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1641899321 c:\users\georg\desktop\electron11(bun)\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\georg\desktop\electron11(bun)\electron03.01.2022\legaturi.h
+
+1641929731 source:c:\users\georg\desktop\electron11(culoare)\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1641930978 c:\users\georg\desktop\electron11(culoare)\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\georg\desktop\electron11(culoare)\electron03.01.2022\legaturi.h
+
+1641934425 source:c:\users\cristina\desktop\electron_final\electron11(culoare)\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1641937941 c:\users\cristina\desktop\electron_final\electron11(culoare)\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\cristina\desktop\electron_final\electron11(culoare)\electron03.01.2022\legaturi.h
+
+1641934425 source:c:\users\cristina\desktop\electron_11ian\electron11(culoare)\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1641937941 c:\users\cristina\desktop\electron_11ian\electron11(culoare)\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\cristina\desktop\electron_11ian\electron11(culoare)\electron03.01.2022\legaturi.h
+
+1642010164 source:c:\users\georg\desktop\electron_12ian\electron11(culoare)\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1642010971 c:\users\georg\desktop\electron_12ian\electron11(culoare)\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\georg\desktop\electron_12ian\electron11(culoare)\electron03.01.2022\legaturi.h
+
+1642017551 source:c:\users\georg\desktop\electron_12ian - copie\electron11(culoare)\electron03.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1642017558 c:\users\georg\desktop\electron_12ian - copie\electron11(culoare)\electron03.01.2022\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\georg\desktop\electron_12ian - copie\electron11(culoare)\electron03.01.2022\legaturi.h
+
+1642017551 source:c:\users\georg\desktop\electron final\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1642076249 c:\users\georg\desktop\electron final\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639326170 c:\users\georg\desktop\electron final\legaturi.h
+
+1642021151 source:c:\users\georg\desktop\electron\electron final\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1642079849 c:\users\georg\desktop\electron\electron final\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639329770 c:\users\georg\desktop\electron\electron final\legaturi.h
+
+1642021151 source:c:\users\georg\desktop\facultate\an i\isem1\ip\electron\electron final\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Structuri.h"
+	"Legaturi.h"
+	<stdlib.h>
+
+1642079849 c:\users\georg\desktop\facultate\an i\isem1\ip\electron\electron final\structuri.h
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	"Legaturi.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1639329770 c:\users\georg\desktop\facultate\an i\isem1\ip\electron\electron final\legaturi.h
+
